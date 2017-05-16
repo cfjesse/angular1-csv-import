@@ -1,0 +1,5 @@
+div.dragandrop { height:250px; border-radius:20px; border:1px dashed grey; transition:.3s; }
+    div.dragover { border-color:red; box-shadow: 0 0 30px rgba(20, 20, 20, .5); }
+    .table { display:flex !important; }
+    .table th, .table td { width:auto; }
+    .control-buttons { margin-top:30px; }
